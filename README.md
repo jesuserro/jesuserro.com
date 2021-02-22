@@ -1,8 +1,8 @@
 ### Hi [jesuserro](https://jesuserro.com) here 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/jesuserro?color=1DA1F2&label=jesuserro&logo=twitter&style=for-the-badge)][tw]
-
 [![Instagram Profile](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][ig]
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/jesuserro?color=1DA1F2&label=jesuserro&logo=twitter&style=for-the-badge)][tw]
 
 
 ### 💻 Web Developer 🌱photographer & reader
