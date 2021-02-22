@@ -1,6 +1,6 @@
 ### Hi [jesuserro](https://jesuserro.com) here 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/jesuserro?color=1DA1F2&label=NavisCode&logo=twitter&style=for-the-badge)](https://twitter.com/jesuserro)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jesuserro?color=1DA1F2&label=jesuserro&logo=twitter&style=for-the-badge)](https://twitter.com/jesuserro)
 
 ### 💻 Web Developer 🌱photographer & reader
 
