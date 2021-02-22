@@ -1,10 +1,10 @@
 ### Hi [jesuserro](https://jesuserro.com) here 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/NavisCode?color=1DA1F2&label=NavisCode&logo=twitter&style=for-the-badge)](https://twitter.com/NavisCode)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jesuserro?color=1DA1F2&label=NavisCode&logo=twitter&style=for-the-badge)](https://twitter.com/jesuserro)
 
 ### 💻 Web Developer 🌱photographer & reader
 
-- 🔭 I’m currently working on a [book store][https://libricos.com]
+- 🔭 I’m currently working on [Libricos.com - book store](https://libricos.com)
 - 🌱 I’m currently learning more about web dev
 - 👯 I’m looking to collaborate webinar, meetup...
 - 💬 Ask me about to be a web dev
