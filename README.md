@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/NavisCode?color=1DA1F2&label=NavisCode&logo=twitter&style=for-the-badge)](https://twitter.com/NavisCode)
 
-### 💻 Web Developer 🌱Father and Vegan
+### 💻 Web Developer 🌱photographer & reader
 
 - 🔭 I’m currently working on a [book store][https://libricos.com]
 - 🌱 I’m currently learning more about web dev
