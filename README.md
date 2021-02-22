@@ -1,8 +1,8 @@
 ### Hi [jesuserro](https://jesuserro.com) here 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/jesuserro?color=1DA1F2&label=jesuserro&logo=twitter&style=for-the-badge)](https://twitter.com/jesuserro)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jesuserro?color=1DA1F2&label=jesuserro&logo=twitter&style=for-the-badge)][tw]
 
-[![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][ig]
+[![Instagram Profile](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][ig]
 
 
 ### 💻 Web Developer 🌱photographer & reader
@@ -57,3 +57,4 @@
 [yt]: https://www.youtube.com/channel/UCABS8RZnJzGI_w9oauOvSxg?sub_confirmation=1
 [blog]: https://jesuserro.com/
 [ig]: https://www.instagram.com/jesuserro/
+[tw]: https://twitter.com/jesuserro
