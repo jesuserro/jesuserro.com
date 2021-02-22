@@ -4,9 +4,9 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/jesuserro?color=1DA1F2&label=jesuserro&logo=twitter&style=for-the-badge)][tw]
 
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="display:inline-block" />
 
-<img src="https://img.shields.io/twitter/follow/jesuserro?color=1DA1F2&label=jesuserro&logo=twitter&style=for-the-badge" />
+<img src="https://img.shields.io/twitter/follow/jesuserro?color=1DA1F2&label=jesuserro&logo=twitter&style=for-the-badge" style="display:inline-block" />
 
 
 ### 💻 Web Developer 🌱photographer & reader
