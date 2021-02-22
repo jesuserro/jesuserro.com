@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on [Libricos.com - book store](https://libricos.com)
 - 🌱 I’m currently learning more about web dev
-- 👯 I’m looking for Christian type projects
+- ❤️ I’m looking for Christian type projects
 - 💬 Ask me about to be a web dev
 - 😄 Pronouns: 'he/him'
 - ⚡ Fun fact: I love photography and reading but no time for that (thats fun)
