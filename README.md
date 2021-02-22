@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/jesuserro?color=1DA1F2&label=jesuserro&logo=twitter&style=for-the-badge)](https://twitter.com/jesuserro)
 
-[![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jesuserro/)
+[![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([ig])
 
 
 ### 💻 Web Developer 🌱photographer & reader
@@ -56,3 +56,4 @@
 [website]: https://libricos.com/
 [yt]: https://www.youtube.com/channel/UCABS8RZnJzGI_w9oauOvSxg?sub_confirmation=1
 [blog]: https://jesuserro.com/
+[ig]: https://www.instagram.com/jesuserro/
