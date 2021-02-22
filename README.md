@@ -59,7 +59,7 @@
 
 ### 🎧 Spotify Playing
 
-[<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="naviscode spotify playing" width="350" />]()
+[<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="olagato spotify playing" width="350" />]()
 
 <!-- LINKS -->
 
