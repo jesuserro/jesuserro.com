@@ -2,6 +2,9 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/jesuserro?color=1DA1F2&label=jesuserro&logo=twitter&style=for-the-badge)](https://twitter.com/jesuserro)
 
+![https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://www.instagram.com/jesuserro/)
+
+
 ### 💻 Web Developer 🌱photographer & reader
 
 - 🔭 I’m currently working on [Libricos.com - book store](https://libricos.com)
