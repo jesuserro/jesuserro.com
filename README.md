@@ -1,10 +1,10 @@
 ### Hi [jesuserro](https://jesuserro.com) here 👋
 
+[![Linkedin Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][lk]
+
 [![Instagram Profile](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][ig]
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/jesuserro?color=1DA1F2&label=jesuserro&logo=twitter&style=for-the-badge)][tw]
-
-[![Linkedin Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][lk]
 
 
 ### 💻 Web Developer 🌱photographer & reader
