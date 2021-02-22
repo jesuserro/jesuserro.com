@@ -4,6 +4,8 @@
 
 [![Instagram Profile](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][ig]
 
+[![Goodreads profile](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)][gr]
+
 [![Lichess profile](https://img.shields.io/badge/Lichess-000000?style=for-the-badge&logo=lichess&logoColor=white)][lc]
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/jesuserro?color=1DA1F2&label=jesuserro&logo=twitter&style=for-the-badge)][tw]
