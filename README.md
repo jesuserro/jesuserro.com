@@ -1,116 +1,68 @@
-# Jesuserro.com
+### Hi [jesuserro][https://jesuserro.com] here 👋
 
-Personal site blog based on Wordpress. It´s about books, reviews and recommendations.
+[![Twitter Follow](https://img.shields.io/twitter/follow/NavisCode?color=1DA1F2&label=NavisCode&logo=twitter&style=for-the-badge)](https://twitter.com/NavisCode)
 
-## Getting Started
+### 💻 Web Developer 🌱Father and Vegan
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+- 🔭 I’m currently working on a [book store][https://libricos.com]
+- 🌱 I’m currently learning more about web dev
+- 👯 I’m looking to collaborate webinar, meetup...
+- 💬 Ask me about to be a web dev
+- 😄 Pronouns: 'he/him'
+- ⚡ Fun fact: I love photography and reading but no time for that (thats fun)
 
-### Prerequisites
+---
 
-What things you need to install the software and how to install them
+### 🚀 Coding
 
-```
-Give examples
-```
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][yt]
 
-### Installing
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][yt]
 
-A step by step series of examples that tell you how to get a development env running
+[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][yt]
 
-Say what the step will be
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][yt]
 
-```
- cd c:/xammp/htdocs/jesuserro.com
- git lfs install
- git config 'lfs.locksverify' false
- git lfs track "*.zip" "*.gz" "*.wpress"
- git add .gitattributes
-```
+[<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />][yt]
 
-And repeat
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][yt]
 
-```
-git add file.zip
-git commit -m "Add zip file"
-git push origin master
-```
+[<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />][yt]
 
-At wp-config.php
+[<img align="left" alt="Php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />][yt]
 
-```
-define('PODS_SHORTCODE_ALLOW_SUB_SHORTCODES',true);
-```
+[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][yt]
 
-End with an example of getting some data out of the system or using it for a little demo
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][yt]
 
-See:
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][yt]
 
-* https://git-lfs.github.com/
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][yt]
 
-## Running the tests
+<br/>
 
-Explain how to run the automated tests for this system
+---
 
-### Break down into end to end tests
+### 🎥 Last YT videos
 
-Explain what these tests test and why
+<!-- YT:START -->
+- [5 conceptos importantes en JavaScript que te ayudaran a conseguir trabajo](https://www.youtube.com/watch?v=bKGSgiX-yMk)
+- [Trucos y consejos para google chrome [sin usar extensiones]](https://www.youtube.com/watch?v=pgbux8gcmaU)
+- [Efectos 3D con JavaScript vanilla paso a paso + Descarga gratuita [2021]](https://www.youtube.com/watch?v=8F3_hzopNic)
+- [Como ganar dinero con Html y Css [2021]](https://www.youtube.com/watch?v=QXfti2KnS7Y)
+- [javascript funciones flecha [2021]](https://www.youtube.com/watch?v=m9PsxIAPFzM)
+<!-- YT:END -->
 
-```
-Give an example
-```
+➡️ [More videos...][yt]
 
-### And coding style tests
+---
 
-Explain what these tests test and why
+### 🎧 Spotify Playing
 
-```
-Give an example
-```
+[<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="naviscode spotify playing" width="350" />]()
 
-## Deployment
+<!-- LINKS -->
 
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Wordpress](https://es.wordpress.org/download/) - The web framework used
-* [Xampp](https://www.apachefriends.org/es/index.html) - Not a Dependency Management
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-### v0.0.1
-
-* Wordpress 5.4.1
-* Permalinks: 
-  * Custom: category/postname
-  * Category base: a dot
-* Theme Twenty Eleven Child
-* Plugins:
-  * Updraftplus + backup files
-  * All In One Wordpress Migration + backup file
-  * Pods: Libros, Autores, Reviews, Géneros, Notas
-* Menú principal: inicio & libros.
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Jesús Erro** - *Initial work* - [Jesuserro](https://github.com/jesuserro
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
-
+[website]: https://libricos.com/
+[yt]: https://www.youtube.com/channel/UCABS8RZnJzGI_w9oauOvSxg?sub_confirmation=1
+[blog]: https://jesuserro.com/
