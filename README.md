@@ -61,3 +61,5 @@
 [ig]: https://www.instagram.com/jesuserro/
 [lk]: https://www.linkedin.com/in/jesuserro/
 [tw]: https://twitter.com/jesuserro
+[gr]: https://www.goodreads.com/user/show/40291334-jes-s-erro
+[lc]: https://lichess.org/@/olagato
