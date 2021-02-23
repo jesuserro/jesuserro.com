@@ -12,7 +12,7 @@
 
 
 
-### 💻 Web Developer, book reviewer 📚 & 📷 photographer 
+### 💻 Web Developer | book reviewer 📚 | 📷 photographer 
 
 - 🔭 I’m currently working on [Libricos.com - book store](https://libricos.com)
 - 🤓 I’m currently learning more about web dev
